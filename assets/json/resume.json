@@ -1,27 +1,37 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Thien-Phuc Doan",
+    "label": "Ph.D. Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "phucdt.soongsil.ac.kr",
+    "phone": "(+82) 10-9752-2805",
+    "url": "https://josebeo2016.github.io/",
+    "summary": "Vietnamese guy who want to explore the world",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "369 Sangdo-ro, Dongjak-gu",
+      "postalCode": "06978",
+      "city": "Seoul",
+      "countryCode": "South Korea",
+      "region": "Dongjak-gu"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "@mrdoan1996",
+        "url": "https://twitter.com/mrdoan1996"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "@phucdt",
+        "url": "https://www.linkedin.com/in/phucdt/"
       }
     ]
   },
+  "education": [
+    {
+      
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",

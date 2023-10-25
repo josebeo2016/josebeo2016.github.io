@@ -6,10 +6,10 @@ subtitle: <a href='#'>Soongsil University</a>. 369 Sangdo-ro, Dongjak-gu, Seoul,
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: phuc.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>phucdt[at]soongsil[dot]ac[dot]kr</p>
+    <p>phucdt@soongsil.ac.kr</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Thien-Phuc Doan is currently a Ph.D. student at Soongsil University, Seoul, Korea. He received his B.S. in Cyber Security in Vietnam National University, Ho Chi Minh city, University of Information Technology in 2018, and his M.E. degree in in Electronic Engineering from Soongsil University in 2020. His research interests are Web Security, Android Malware Analysis, Deepfake Speech Synthesis and Detection.
+Hello, my name is Thien-Phuc Doan, and I hail from the hustle and bustle of Binh Duong, Vietnam. Currently, I am navigating the complex and intriguing realm of Information Security as a Ph.D. student. Outside the academic sphere, you'll often find me immersed in activities that keep both my mind and body bustling - be it striking a rhythm on the piano, challenging adversaries in e-sports, maneuvering on the soccer field, or darting around the badminton court. My academic journey was punctuated with distinction as I graduated top of my class from the University of Information Technology. Additionally, one aspect that makes me unique is my proficiency in 12 languages, Vietnamese and English as well as other programming languages. I believe in a world connected by words and codes alike, and I strive to create secure information environments using this philosophy.

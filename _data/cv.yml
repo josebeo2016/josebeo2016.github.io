@@ -2,96 +2,132 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Doan Thien Phuc
     - name: Date of Birth
-      value: 14th March 1879
+      value: January 11th 1996
     - name: Languages
-      value: English, German
+      value: Vietnamese, English, Korean
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BE
+      institution: University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam
+      year: 2014 - 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA 8.62./10 (1st).
+        - Honor program in Information Security Engineering.
+        
+
+    - title: ME
+      institution: School of Electronic Engineering, Soongsil University, Seoul, South Korea
+      year: 2019-2021
       description:
-        - Description 1.
-        - Description 2.
+        - GPA 4.14/4.5.
+        - Master student in Computer and Telecommunication Engineering.
+        - Thesis "A Study on Vulerability Analysis of Docker Containers Based on File Extraction and Entory Technology".
+
+    - title: Ph.D.
+      institution: School of Electronic Engineering, Soongsil University, Seoul, South Korea
+      year: 2021-now
+      description:
+        - GPA 4.29/4.5.
+        - Research student in Communication Network and Security Lab.
+        - Researcher in AI Security Research Center.
+        - Research topic Audio Deepfake Detection.
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Security Engineer (internship)
+      company: EY Cyber Security Audit, Ho Chi Minh City, Vietnam
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Security audit for web applications, mobile applications, and network systems.
+        - Research on 0-days and 1-days vulnerabilities.
+    
+    - title: Security Engineer (internship and fulltime)
+      company: Viettel Cyber Security Co., Ho Chi Minh City, Vietnam
+      year: 2018-2019
       description:
-        - Description 1.
-        - Description 2.
+        - Security audit for web applications, mobile applications, and network systems.
+        - Penetration testing for web applications and information systems.
+        - Research on 0-days and 1-days vulnerabilities.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/josebeo2016/MalwareGen">MalwareGen</a>
+      year: 2018
+      description: My graduation project. A malware auto generation tool for Windows OS. Only for educational purposes.
+
+    - title: <a href="https://github.com/josebeo2016/HALModifying">HALModifying</a>
+      year: 2020
+      description: A tool for modifying the HAL layer of Android OS to inject observation code for security analysis.
+
+    - title: <a href="https://github.com/josebeo2016/DAVScanner">DAVScanner</a>
+      year: 2020
+      description: A tool for scanning container image vulnerability based on Dockerfile Analysis and Vulnerability Database.
+
+    - title: <a href="https://github.com/josebeo2016/biosegment">biosegment</a>
+      year: 2022-now
+      description: A tool for segmenting audio files based on VAD into speech, breathing, and non-speech segments.
+
+    - title: <a href="https://github.com/josebeo2016/BTS-Encoder-ASVspoof>">BTS-Encoder-ASVspoof</a>
+      year: 2022-now
+      description: The source code of BTS-E model for ASVspoof 2019 challenge. This is the official implementation of the paper <a href="https://ieeexplore.ieee.org/abstract/document/10095927/">BTS-E Audio Deepfake Detection Using Breathing-Talking-Silence Encoder</a>.
+
+    - title: <a href="https://github.com/josebeo2016/audio_preprocess">audio_preprocess</a>
+      year: 2023-now
+      description: A tool for preprocessing audio files for audio deepfake detection.
+
+    - title: <a href="https://github.com/josebeo2016/audio_augmentor">audio_augmentor</a>
+      year: 2023-now
+      description: A tool for augmenting audio files for audio deepfake detection.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2015
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - 1st prize in the Student Leader competition of the University of Information Technology.
+        - 3rd prize in the ACM-ICPC Programming contest of the University of Information Technology.
+    - year: 2017
       items: 
-        - Max Planck Medal
+        - 2nd prize in the SVATTT contest (Southern Vietnam) - an annual national security contest for students.
+    - year: 2021
+      items: 
+        - Best student paper award at Mobisec 2021.
+    - year: 2023
+      items: 
+        - Best paper award at WDC 2023.
+
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Application Security
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Malware analysis and malware auto generation.
+        - Android security.
+    - title: Cloud Native Security
       items:
-        - Description 1.
-        - Description 2.
+        - Container vulnerability analysis.
+        - Cloud system observability.
+        - Linux kernel isolation.
+        - eBPF for cloud security.
+    - title: Audio Deepfake Detection
+      items:
+        - Audio deepfake detection.
+        - Audio deepfake generation.
+        - Speech processing and analysis.
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Music:</u> Singing, playing guitar, playing piano.
+    - <u>Traveling:</u> Traveling around the world.
+    - <u>Sport:</u> Swimming, badminton, soccer.

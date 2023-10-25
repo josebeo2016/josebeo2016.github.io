@@ -27,13 +27,19 @@
             {% if content.title %}
             <h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>
             {% endif %}
-            {% if content.department or content.institution %}
+            {% if content.department or content.institution or content.company %}
             <table class="table-cv ml-1 ml-md-4 institution">
             <tbody>
               {% if content.institution %}
               <tr>
                 <td style="vertical-align: top; text-align: center;" class="institution"><i class="fas fa-university iconinstitution"></i></td>
                 <td class="institution">{{content.institution}}</td>
+              </tr>
+              {% endif %}
+              {% if content.company %}
+              <tr>
+                <td style="vertical-align: top; text-align: center;" class="institution"><i class="fa-regular fa-building iconinstitution"></i></td>
+                <td class="institution">{{content.company}}</td>
               </tr>
               {% endif %}
               {% if content.department %}

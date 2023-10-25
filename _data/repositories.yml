@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - josebeo2016
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - josebeo2016/MalwareGen
+  - josebeo2016/audio_augmentor
+  - josebeo2016/audio_preprocess 
+  - josebeo2016/biosegment
+  - josebeo2016/DAVScanner
+  - josebeo2016/HALModifying
+  - josebeo2016/BTS-Encoder-ASVspoof
+  - josebeo2016/SCL-Deepfake-audio-detection
+
+

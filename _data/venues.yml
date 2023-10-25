@@ -1,6 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Access":
+  url: https://ieeeaccess.ieee.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICASSP 2023":
+  url: https://2023.ieeeicassp.org/
+  color: "#00369f"
+
+"US Patent":
+  url: https://patents.google.com/
+  color: "#a31f34"
