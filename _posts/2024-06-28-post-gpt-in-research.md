@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Sử dụng ChatGPT trong nghiên cứu? Tại sao không?
-date: 2024-06-28 09:56:00-0900
+date: 2024-06-28 09:56:00+0900
 description: Sử dụng ChatGPT trong nghiên cứu? Tại sao không?
-tags: formatting bib
+tags: chatgpt, research
 categories: ChatGPT
 giscus_comments: true
 related_posts: false
