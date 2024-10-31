@@ -6,7 +6,7 @@ subtitle: <a href='#'>Soongsil University</a>. 369 Sangdo-ro, Dongjak-gu, Seoul,
 
 profile:
   align: right
-  image: phuc.jpg
+  image: phuc.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>phucdt@soongsil.ac.kr</p>
