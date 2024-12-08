@@ -10,6 +10,7 @@ related_posts: false
 related_publications: true
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/is24.jpg" class="img-fluid rounded z-depth-1" %}
 🌟 **[CNSL/AISRC] TUYỂN SINH THẠC SĨ 🌟**
 
 Chào các bạn sinh viên!
