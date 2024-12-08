@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CNSL/ASIRC Tuyển Sinh
+title: CNSL/ASIRC Tuyển Sinh 2025
 date: 2024-12-07 09:00:00+0900
 description: Cơ hội nghiên cứu trong lĩnh vực AI và xử lý âm thanh tại Hàn Quốc
 tags: studyabroad, master, cnsl
@@ -11,7 +11,7 @@ related_publications: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/is24.jpg" class="img-fluid rounded z-depth-1" %}
-🌟 **[CNSL/AISRC] TUYỂN SINH THẠC SĨ 🌟**
+🌟 **[CNSL/AISRC] TUYỂN SINH THẠC SĨ 2025 🌟**
 
 Chào các bạn sinh viên!
 
@@ -54,6 +54,7 @@ Hãy gửi CV của bạn trực tiếp đến:
 - CNSL: https://cnsl.ssu.ac.kr
 
 ## ENGLISH
+🌟 **[CNSL/AISRC] MASTER STUDENT SCHOLARSHIP 2025 🌟**
 Hello students!
 
 We are excited to announce the recruitment for our Master's program at CNSL, focusing on cutting-edge research areas. If you are passionate about technology and want to engage in advanced fields, send us your CV now!
