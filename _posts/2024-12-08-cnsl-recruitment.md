@@ -42,8 +42,6 @@ Chúng tôi tìm kiếm những bạn có nền tảng hoặc kỹ năng phù h�
 - Đề xuất mua sách (online/offline) và các thiết bị nghiên cứu khác.
 - Giáo sư thường xuyên dẫn đi ăn hoặc mua đồ ăn cho sinh viên tại lab.
 
-Nếu bạn quan tâm, hãy inbox CV trực tiếp cho mình. Không cần phải gửi qua email!
-
 Chúng tôi mong chờ sự tham gia của bạn để cùng nhau khám phá những điều thú vị trong lĩnh vực nghiên cứu này! 🚀
 
 ### **Contact:**
@@ -83,8 +81,6 @@ We are looking for candidates with a background or skills in one of the followin
 - Use of the lab's GPU servers (4 servers, each with 4 GPUs).
 - Freedom to suggest purchases for research materials (books, online/offline).
 - Professors often take students out for meals or bring food to the lab.
-
-If you are interested, please send your CV directly via inbox. No need to send it via email!
 
 We look forward to your participation as we explore exciting opportunities in this research field! 🚀
 
