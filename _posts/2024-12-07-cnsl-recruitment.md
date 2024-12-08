@@ -9,7 +9,7 @@ giscus_comments: true
 related_posts: false
 related_publications: true
 ---
-# 🌟 **[CNSL/AISRC] TUYỂN SINH THẠC SĨ 2025 🌟**
+
 <div class="col-sm mt-3 mt-md-0">
     {% include figure.html path="assets/img/is24.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
@@ -34,7 +34,7 @@ Chúng tôi tìm kiếm những bạn có nền tảng hoặc kỹ năng phù h�
 - Nghiên cứu và viết báo khoa học. Yêu cầu tốt nghiệp là 2 bài báo tại hội nghị quốc tế hoặc 1 bài báo tại tạp chí SCI/E.
 
 ### **Quyền Lợi:**
-- Lương cơ bản 1.200.000 Won/tháng (mức lương này từ 1 năm trước).
+- Lương cơ bản 1.200.000+ Won/tháng (mức lương này từ 1 năm trước).
 - Lab hỗ trợ mượn tiền để đóng phí đầu vào (entrance fee) khoảng 707.000 Won + tiền nộp hồ sơ 100.000 Won, sẽ hoàn trả sau kỳ đầu tiên.
 - Không cần đóng học phí.
 - Tăng lương theo năng lực từ năm thứ 2.
@@ -56,6 +56,7 @@ Hãy gửi CV của bạn trực tiếp đến:
 
 ## ENGLISH
 🌟 **[CNSL/AISRC] MASTER STUDENT SCHOLARSHIP 2025 🌟**
+
 Hello students!
 
 We are excited to announce the recruitment for our Master's program at CNSL, focusing on cutting-edge research areas. If you are passionate about technology and want to engage in advanced fields, send us your CV now!
@@ -76,7 +77,7 @@ We are looking for candidates with a background or skills in one of the followin
 - Conduct research and publish scientific papers. Graduation requirements include 2 international conference papers or 1 SCI/E journal article.
 
 ### **Benefits:**
-- Starting salary of 1,200,000 Won/month (this amount has been consistent for the past year).
+- Starting salary of 1,200,000+ Won/month (this amount has been consistent for the past year).
 - The lab offers financial support for entrance fees (approximately 707,000 Won) and application fees (100,000 Won), to be reimbursed after the first semester.
 - No tuition fees.
 - Salary increases based on performance from the second year.
