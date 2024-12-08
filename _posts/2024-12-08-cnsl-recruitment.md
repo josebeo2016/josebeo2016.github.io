@@ -46,7 +46,12 @@ Nếu bạn quan tâm, hãy inbox CV trực tiếp cho mình. Không cần phả
 
 Chúng tôi mong chờ sự tham gia của bạn để cùng nhau khám phá những điều thú vị trong lĩnh vực nghiên cứu này! 🚀
 
-**#CNSL #ThacSi #TuyenSinh #AI #AudioProcessing**
+### **Contact:**
+Hãy gửi CV của bạn trực tiếp đến:
+Facebook: https://www.facebook.com/mrdoan1996
+Email: phucdt@soongsil.ac.kr
+AISRC: https://aisrc.ssu.ac.kr
+CNSL: https://cnsl.ssu.ac.kr
 
 ## ENGLISH
 Hello students!
@@ -83,7 +88,13 @@ If you are interested, please send your CV directly via inbox. No need to send i
 
 We look forward to your participation as we explore exciting opportunities in this research field! 🚀
 
-**#CNSL #Masters #Recruitment #AI #AudioProcessing**
+### **Contact:**
+Please send your CV to:
+Facebook: https://www.facebook.com/mrdoan1996
+Email: phucdt@soongsil.ac.kr
+AISRC: https://aisrc.ssu.ac.kr
+CNSL: https://cnsl.ssu.ac.kr
+
 
 
 
