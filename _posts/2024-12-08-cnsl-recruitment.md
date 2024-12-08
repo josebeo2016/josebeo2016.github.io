@@ -46,10 +46,11 @@ Chúng tôi mong chờ sự tham gia của bạn để cùng nhau khám phá nh�
 
 ### **Contact:**
 Hãy gửi CV của bạn trực tiếp đến:
-Facebook: https://www.facebook.com/mrdoan1996
-Email: phucdt@soongsil.ac.kr
-AISRC: https://aisrc.ssu.ac.kr
-CNSL: https://cnsl.ssu.ac.kr
+
+- Facebook: https://www.facebook.com/mrdoan1996
+- Email: phucdt[at]soongsil.ac.kr
+- AISRC: https://aisrc.ssu.ac.kr
+- CNSL: https://cnsl.ssu.ac.kr
 
 ## ENGLISH
 Hello students!
@@ -86,10 +87,11 @@ We look forward to your participation as we explore exciting opportunities in th
 
 ### **Contact:**
 Please send your CV to:
-Facebook: https://www.facebook.com/mrdoan1996
-Email: phucdt@soongsil.ac.kr
-AISRC: https://aisrc.ssu.ac.kr
-CNSL: https://cnsl.ssu.ac.kr
+
+- Facebook: https://www.facebook.com/mrdoan1996
+- Email: phucdt[at]soongsil.ac.kr
+- AISRC: https://aisrc.ssu.ac.kr
+- CNSL: https://cnsl.ssu.ac.kr
 
 
 
