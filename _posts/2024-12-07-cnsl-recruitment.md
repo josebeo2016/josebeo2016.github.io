@@ -10,7 +10,7 @@ related_posts: false
 related_publications: true
 ---
 # 🌟 **[CNSL/AISRC] TUYỂN SINH THẠC SĨ 2025 🌟**
-{% include figure.liquid path="assets/img/is24.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% includes figure.liquid path="assets/img/is24.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 Chào các bạn sinh viên!
 
