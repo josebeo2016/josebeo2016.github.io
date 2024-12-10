@@ -21,7 +21,7 @@
 
     - title: ME
       institution: School of Electronic Engineering, Soongsil University, Seoul, South Korea
-      year: 2019-2021
+      year: 2019 - 2021
       description:
         - GPA 4.14/4.5.
         - Master student in Computer and Telecommunication Engineering.
@@ -29,12 +29,14 @@
 
     - title: Ph.D.
       institution: School of Electronic Engineering, Soongsil University, Seoul, South Korea
-      year: 2021-now
+      year: 2021 - 2025
       description:
         - GPA 4.29/4.5.
         - Research student in Communication Network and Security Lab.
         - Researcher in AI Security Research Center.
         - Research topic Audio Deepfake Detection.
+        - Dissertation title, "Audio Deepfake Detection:Biological Features Extraction, Effective Training Strategy, and Deepfake Family Analysis".
+
 
 
 - title: Experience
@@ -49,7 +51,7 @@
     
     - title: Security Engineer (internship and fulltime)
       company: Viettel Cyber Security Co., Ho Chi Minh City, Vietnam
-      year: 2018-2019
+      year: 2018 - 2019
       description:
         - Security audit for web applications, mobile applications, and network systems.
         - Penetration testing for web applications and information systems.
@@ -103,6 +105,9 @@
     - year: 2023
       items: 
         - Best paper award at WDC 2023.
+    - year: 2024
+      items: 
+        - Chair at session Information Security at ICONIP 2024.
 
 
 - title: Academic Interests
