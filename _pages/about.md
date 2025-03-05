@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Soongsil University</a>. 369 Sangdo-ro, Dongjak-gu, Seoul, South Korea
 
