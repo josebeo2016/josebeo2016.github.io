@@ -11,22 +11,6 @@
 - title: Education
   type: time_table
   contents:
-    - title: BE
-      institution: University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam
-      year: 2014 - 2018
-      description:
-        - GPA 8.62./10 (1st).
-        - Honor program in Information Security Engineering.
-        
-
-    - title: ME
-      institution: School of Electronic Engineering, Soongsil University, Seoul, South Korea
-      year: 2019 - 2021
-      description:
-        - GPA 4.14/4.5.
-        - Master student in Computer and Telecommunication Engineering.
-        - Thesis "A Study on Vulerability Analysis of Docker Containers Based on File Extraction and Entory Technology".
-
     - title: Ph.D.
       institution: School of Electronic Engineering, Soongsil University, Seoul, South Korea
       year: 2021 - 2025
@@ -36,19 +20,36 @@
         - Researcher in AI Security Research Center.
         - Research topic Audio Deepfake Detection.
         - Dissertation title, "Audio Deepfake Detection:Biological Features Extraction, Effective Training Strategy, and Deepfake Family Analysis".
-
-
+    - title: ME
+      institution: School of Electronic Engineering, Soongsil University, Seoul, South Korea
+      year: 2019 - 2021
+      description:
+        - GPA 4.14/4.5.
+        - Master student in Computer and Telecommunication Engineering.
+        - Thesis "A Study on Vulerability Analysis of Docker Containers Based on File Extraction and Entory Technology".
+    - title: BE
+      institution: University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam
+      year: 2014 - 2018
+      description:
+        - GPA 8.62./10 (1st).
+        - Honor program in Information Security Engineering.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Security Engineer (internship)
-      company: EY Cyber Security Audit, Ho Chi Minh City, Vietnam
-      year: 2017
+    - title: Visiting Professor
+      company: School of Information Technology, Soongsil University, Seoul, South Korea
+      year: 2025 - now
       description:
-        - Security audit for web applications, mobile applications, and network systems.
-        - Research on 0-days and 1-days vulnerabilities.
-    
+        - Teaching courses on Special Topics in Information Security, and Special Topics in Network Security.
+        - Supervising undergraduate and graduate students.
+    - title: Researcher
+      company: AI Security Research Center, Soongsil University, Seoul, South Korea
+      year: 2025 - now
+      description:
+        - Research on audio deepfake generation and detection.
+        - Research on Spoof-aware deepfake detection.
+        - Research on Speech privacy protection.
     - title: Security Engineer (internship and fulltime)
       company: Viettel Cyber Security Co., Ho Chi Minh City, Vietnam
       year: 2018 - 2019
@@ -56,79 +57,84 @@
         - Security audit for web applications, mobile applications, and network systems.
         - Penetration testing for web applications and information systems.
         - Research on 0-days and 1-days vulnerabilities.
-
-
+    - title: Security Engineer (internship)
+      company: EY Cyber Security Audit, Ho Chi Minh City, Vietnam
+      year: 2017
+      description:
+        - Security audit for web applications, mobile applications, and network systems.
+        - Research on 0-days and 1-days vulnerabilities.
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/josebeo2016/MalwareGen">MalwareGen</a>
-      year: 2018
-      description: My graduation project. A malware auto generation tool for Windows OS. Only for educational purposes.
+  - title: <a href="https://github.com/josebeo2016/audio_preprocess">audio_preprocess</a>
+    year: 2023-now
+    description: A tool for preprocessing audio files for audio deepfake detection.
 
-    - title: <a href="https://github.com/josebeo2016/HALModifying">HALModifying</a>
-      year: 2020
-      description: A tool for modifying the HAL layer of Android OS to inject observation code for security analysis.
+  - title: <a href="https://github.com/josebeo2016/audio_augmentor">audio_augmentor</a>
+    year: 2023
+    description: A tool for augmenting audio files for audio deepfake detection.
 
-    - title: <a href="https://github.com/josebeo2016/DAVScanner">DAVScanner</a>
-      year: 2020
-      description: A tool for scanning container image vulnerability based on Dockerfile Analysis and Vulnerability Database.
+  - title: <a href="https://github.com/josebeo2016/biosegment">biosegment</a>
+    year: 2022-2024
+    description: A tool for segmenting audio files based on VAD into speech, breathing, and non-speech segments.
 
-    - title: <a href="https://github.com/josebeo2016/biosegment">biosegment</a>
-      year: 2022-now
-      description: A tool for segmenting audio files based on VAD into speech, breathing, and non-speech segments.
+  - title: <a href="https://github.com/josebeo2016/BTS-Encoder-ASVspoof>">BTS-Encoder-ASVspoof</a>
+    year: 2022-2024
+    description: The source code of BTS-E model for ASVspoof 2019 challenge. This is the official implementation of the paper <a href="https://ieeexplore.ieee.org/abstract/document/10095927/">BTS-E Audio Deepfake Detection Using Breathing-Talking-Silence Encoder</a>.
 
-    - title: <a href="https://github.com/josebeo2016/BTS-Encoder-ASVspoof>">BTS-Encoder-ASVspoof</a>
-      year: 2022-now
-      description: The source code of BTS-E model for ASVspoof 2019 challenge. This is the official implementation of the paper <a href="https://ieeexplore.ieee.org/abstract/document/10095927/">BTS-E Audio Deepfake Detection Using Breathing-Talking-Silence Encoder</a>.
+  - title: <a href="https://github.com/josebeo2016/HALModifying">HALModifying</a>
+    year: 2020
+    description: A tool for modifying the HAL layer of Android OS to inject observation code for security analysis.
 
-    - title: <a href="https://github.com/josebeo2016/audio_preprocess">audio_preprocess</a>
-      year: 2023-now
-      description: A tool for preprocessing audio files for audio deepfake detection.
+  - title: <a href="https://github.com/josebeo2016/DAVScanner">DAVScanner</a>
+    year: 2020
+    description: A tool for scanning container image vulnerability based on Dockerfile Analysis and Vulnerability Database.
 
-    - title: <a href="https://github.com/josebeo2016/audio_augmentor">audio_augmentor</a>
-      year: 2023-now
-      description: A tool for augmenting audio files for audio deepfake detection.
+  - title: <a href="https://github.com/josebeo2016/MalwareGen">MalwareGen</a>
+    year: 2018
+    description: My graduation project. A malware auto generation tool for Windows OS. Only for educational purposes.
+
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Chair at session Information Security at ICONIP 2024.
+    - year: 2023
+      items: 
+        - Best paper award at WDC 2023.
+    - year: 2021
+      items: 
+        - Best student paper award at Mobisec 2021.
+    - year: 2017
+      items: 
+        - 2nd prize in the SVATTT contest (Southern Vietnam) - an annual national security contest for students.
     - year: 2015
       items: 
         - 1st prize in the Student Leader competition of the University of Information Technology.
         - 3rd prize in the ACM-ICPC Programming contest of the University of Information Technology.
-    - year: 2017
-      items: 
-        - 2nd prize in the SVATTT contest (Southern Vietnam) - an annual national security contest for students.
-    - year: 2021
-      items: 
-        - Best student paper award at Mobisec 2021.
-    - year: 2023
-      items: 
-        - Best paper award at WDC 2023.
-    - year: 2024
-      items: 
-        - Chair at session Information Security at ICONIP 2024.
-
+    
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Application Security
+    - title: Audio Security
       items: 
-        - Malware analysis and malware auto generation.
-        - Android security.
+        - Audio deepfake detection.
+        - Spoof-aware deepfake detection.
+        - Speech privacy protection.
     - title: Cloud Native Security
       items:
         - Container vulnerability analysis.
         - Cloud system observability.
         - Linux kernel isolation.
         - eBPF for cloud security.
-    - title: Audio Deepfake Detection
-      items:
-        - Audio deepfake detection.
-        - Audio deepfake generation.
-        - Speech processing and analysis.
 
+    - title: Application Security
+      items: 
+        - Malware analysis and malware auto generation.
+        - Android security.
 
 - title: Other Interests
   type: list
