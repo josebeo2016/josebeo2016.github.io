@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Thien-Phuc (Joseph) Doan, and I hail from the hustle and bustle of Binh Duong, Vietnam. 4 years as undergraduate student, 2 years for Master degree and the other 4 years for Ph.D., I have spent 10 years navigating the complex and intriguing realm of Information Security. I am currently Visiting Professor @ Soongsil University. 
+Hello, my name is Đoàn Thiên Phúc (Joseph), and I hail from the hustle and bustle of Binh Duong, Vietnam. 4 years as an undergraduate student, 2 years for my Master's degree and the other 4 years for my Ph.D., I have spent 10 years navigating the complex and intriguing realm of Information Security. I am currently a Visiting Professor @ Soongsil University. 
 
 Outside the academic sphere, you'll often find me immersed in activities that keep both my mind and body bustling - be it striking a rhythm on the piano, challenging adversaries in e-sports, maneuvering on the soccer field, or darting around the badminton court. My academic journey was punctuated with distinction as I graduated top of my class from the University of Information Technology. Additionally, one aspect that makes me unique is my proficiency in 12 languages, Vietnamese and English as well as other programming languages. I believe in a world connected by words and codes alike, and I strive to create secure information environments using this philosophy.
